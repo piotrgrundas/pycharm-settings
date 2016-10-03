@@ -97,9 +97,11 @@
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -124,6 +126,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
+  <action id="hg4idea.QFold" />
   <action id="linessorter.sort">
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="f9" />
