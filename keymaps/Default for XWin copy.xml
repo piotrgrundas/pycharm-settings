@@ -6,6 +6,10 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -63,6 +67,7 @@
   <action id="ParameterInfo" />
   <action id="RecentFiles" />
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Resume" />
