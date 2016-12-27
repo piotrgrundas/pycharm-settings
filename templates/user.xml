@@ -1,19 +1,12 @@
 <templateSet group="user">
-  <template name="ipdb" value="import ipdb; ipdb.set_trace();" description="ipdb" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
   <template name="pdb" value="import pdb; pdb.set_trace();" description="pdb" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="log" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="ipdb" value="import ipdb; ipdb.set_trace()" description="ipdb" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="CoffeeScript" value="true" />
+      <option name="Python" value="true" />
     </context>
   </template>
 </templateSet>
