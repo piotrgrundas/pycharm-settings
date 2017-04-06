@@ -18,9 +18,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
-  <action id="EditorAddRectangularSelectionOnMouseDrag">
+  <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -46,6 +47,9 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl e" />
