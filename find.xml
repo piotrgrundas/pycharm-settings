@@ -13,7 +13,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -21,8 +20,10 @@
       <mask>*.html</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
