@@ -13,17 +13,19 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.htm</mask>
+      <mask>*.p</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
