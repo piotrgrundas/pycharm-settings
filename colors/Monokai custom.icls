@@ -1,9 +1,9 @@
 <scheme name="Monokai custom" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.3333334" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9ec421" />
