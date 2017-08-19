@@ -71,6 +71,9 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
   <action id="RecentFiles" />
