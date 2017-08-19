@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".editorconfig" type="BuildoutCfg" />
       <mapping pattern="_category-page.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
