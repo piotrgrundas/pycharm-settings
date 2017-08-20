@@ -1,6 +1,7 @@
 <keymap version="1" name="Custom" parent="Default for GNOME">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -24,6 +25,7 @@
   <action id="Django.RunManageTaskAction" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="control button1" />
