@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Diff.SelectedChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Django.RunManageTaskAction" />
   <action id="Editor Redo">
@@ -41,6 +42,9 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -48,6 +52,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -70,6 +75,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextOccurence" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="f9" />
