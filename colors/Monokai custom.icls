@@ -1,9 +1,9 @@
 <scheme name="Monokai custom" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="FONT_SCALE" value="1.3333334" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9ec421" />
     <option name="CARET_COLOR" value="f8f8f0" />
@@ -1124,8 +1124,8 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ecc784" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="e2b875" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -1453,7 +1453,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e0e0e0" />
+        <option name="FOREGROUND" value="f8f8f2" />
         <option name="BACKGROUND" value="26281f" />
       </value>
     </option>
