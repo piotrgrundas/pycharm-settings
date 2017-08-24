@@ -97,7 +97,8 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Resume" />
-  <action id="SelectAllOccurrences">
+  <action id="SelectAllOccurrences" />
+  <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
