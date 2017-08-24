@@ -67,8 +67,12 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceParameter" />
   <action id="IpnbMoveCellDownAction" />
   <action id="IpnbMoveCellUpAction" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
