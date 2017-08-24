@@ -97,7 +97,9 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Resume" />
-  <action id="SelectAllOccurrences" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
