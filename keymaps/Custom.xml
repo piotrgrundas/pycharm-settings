@@ -19,8 +19,10 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Diff.SelectedChange" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Django.RunManageTaskAction" />
   <action id="Editor Redo">
@@ -44,6 +46,7 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -95,9 +98,9 @@
   <action id="ResizeToolWindowUp" />
   <action id="Resume" />
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
-    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="SendEOF" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -135,4 +138,5 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
