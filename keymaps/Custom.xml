@@ -60,7 +60,6 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="alt p" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoSymbol">
