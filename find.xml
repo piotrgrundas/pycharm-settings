@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -25,10 +26,6 @@
       <mask>.scss</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -38,6 +35,10 @@
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.py</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
