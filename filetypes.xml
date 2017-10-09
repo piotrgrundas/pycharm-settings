@@ -3,8 +3,9 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*Spec.js.html;*~;.DS_Store;.git;.hg;.svn;.vscode;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".editorconfig" type="BuildoutCfg" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="_category-page.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
