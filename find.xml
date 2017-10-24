@@ -11,9 +11,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.cs</mask>
       <mask>.css</mask>
       <mask>.csss</mask>
       <mask>.*</mask>
@@ -30,10 +27,7 @@
       <mask>*.html</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
@@ -41,6 +35,12 @@
       <mask>*.json</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.s</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
