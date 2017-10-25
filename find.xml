@@ -10,6 +10,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>.css</mask>
       <mask>.csss</mask>
@@ -34,13 +35,13 @@
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
