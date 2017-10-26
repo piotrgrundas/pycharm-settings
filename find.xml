@@ -8,9 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>.csss</mask>
-      <mask>.*</mask>
       <mask>*</mask>
       <mask>y</mask>
       <mask>.</mask>
@@ -25,10 +24,8 @@
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.sc</mask>
-      <mask>*.</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.p</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -36,9 +33,13 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.py(</mask>
-      <mask>*.py</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.poy</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
