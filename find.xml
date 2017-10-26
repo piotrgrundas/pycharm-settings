@@ -26,8 +26,6 @@
       <mask>*.xml</mask>
       <mask>*.sc</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.p</mask>
@@ -39,6 +37,8 @@
       <mask>*.scss</mask>
       <mask>*.py(</mask>
       <mask>*.py</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
