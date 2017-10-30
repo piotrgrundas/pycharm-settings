@@ -37,8 +37,8 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.py</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
