@@ -21,8 +21,10 @@
     <option name="LINE_NUMBERS_COLOR" value="9c9c98" />
     <option name="MODIFIED_LINES_COLOR" value="e7e853" />
     <option name="RIGHT_MARGIN_COLOR" value="474747" />
-    <option name="SELECTED_INDENT_GUIDE" value="4c493e" />
+    <option name="SELECTED_INDENT_GUIDE" value="3c3f41" />
     <option name="SELECTION_BACKGROUND" value="976211" />
+    <option name="SEPARATOR_BELOW_COLOR" value="3c3f41" />
+    <option name="VISUAL_INDENT_GUIDE" value="494949" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
   <attributes>
@@ -1469,7 +1471,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="f6f6f0" />
         <option name="BACKGROUND" value="26281f" />
       </value>
     </option>
