@@ -57,6 +57,11 @@
         <option name="BACKGROUND" value="743d3d" />
       </value>
     </option>
+    <option name="BROWSEWORDATCARET">
+      <value>
+        <option name="EFFECT_COLOR" value="f38025" />
+      </value>
+    </option>
     <option name="BUILDOUT.KEY">
       <value>
         <option name="FOREGROUND" value="f92672" />
