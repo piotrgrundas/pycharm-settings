@@ -17,5 +17,6 @@
     <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
